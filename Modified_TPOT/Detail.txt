@@ -1,0 +1,2 @@
+Modified TPOT Gives you the best algorithm for given data file. I used it for Credit_Card Fraud detection and I got DecisionTreeclassifier
+is best for my datasets.
